@@ -4,7 +4,7 @@
 - [Ementa 📋](#ementa-) 
 - [Objetivos da Discilina 🎯](#objetivos-da-disciplina-) 
 - [Conteúdo Programático 📚](#conteúdo-programático-) 
-- [Exercícios apoio 💪](#exercícios-de-apoio-algoritmos-e-programação-de-computadores-ii-) 
+- [Conteúdo 💪](#Conteúdo-) 
 - [Grade 📅](#grade-algoritmos-e-programação-de-computadores-i-) 
 - [Bibliografia 📖](#bibliografia-) 
 
@@ -17,15 +17,15 @@
 ## Conteúdo programático 📚
 ...
 
-## Exercícios de apoio Algoritmos e Programação II 💪
-[Ir para o Conteúdo](Template-de-conteudo/Exercicios-de-apoio/)
+## Conteúdo 💪
+[Ir para o Conteúdo](Template-de-conteudo/Conteúdo/)
 
 ## Grade ... 📅
 
 ### Semana 1 | Gerenciamento de memória, arquivos e depuração de programas 📅
 Nesta semana, eu:
 - [ ] Compreendi como gerenciar memória, arquivos e depurar programas em Python.
-- [ ] 
+      
 ### Semana 2 | Programação orientada a objetos e modularização 📅
 Nesta semana, eu:
 - [ ] Aprendi os conceitos básicos de Programação Orientada Objetos e como pode ser usada para modularizar os programas.
