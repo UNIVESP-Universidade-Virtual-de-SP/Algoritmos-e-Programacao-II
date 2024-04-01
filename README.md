@@ -18,7 +18,7 @@
 ...
 
 ## Conteúdo 💪
-[Ir para o Conteúdo](Template-de-conteudo/Conteúdo/)
+[Ir para o Conteúdo](Algoritmos-e-Programacao-II/Conteúdo/)
 
 ## Grade Algoritmos e Programação II 📅
 
