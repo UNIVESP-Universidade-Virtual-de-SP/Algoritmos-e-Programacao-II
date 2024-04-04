@@ -25,7 +25,7 @@ Reforçar a prática de programação em Python, composição de programas com m
 8. GIT, testes automatizados e revisão
 
 ## Conteúdo 💪
-[Ir para o Conteúdo](Algoritmos-e-Programacao-II/Conteúdo/)
+[Ir para o Conteúdo](../Conteúdo/)
 
 ## Grade 📅
 
