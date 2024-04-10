@@ -10,6 +10,7 @@
     - [Exercício 03 📝](#exercício-03-)
     - [Exercício 04 📝](#exercício-04-)
 - [Semana 2 ✅.](#semana-2-)
+    - [Exercício 05 📝](#exercício-05-) 
 - [Semana 3 ✅.](#semana-3-)
 - [Semana 4 ✅.](#semana-4-)
 - [Semana 5 ✅.](#semana-5-)
@@ -162,6 +163,33 @@ print(l[-1][0])
 ```
 
 ## Semana 2 ✅
+
+### Exercício 04 📝
+```python
+"""
+    Acrescente o método getx() à classe Ponto; esse método não aceita entrada e retorna a coordenada x do objeto Ponto que chama o método.
+"""
+
+class Point:
+    'classe que representa pontos no plano'
+    def setx(self, coordx):
+        'define coordenada x do ponto como coordx'
+        self.x = coordx
+    def sety(self, coordy):
+        'define coordenada y do ponto como coordy'
+        self.y = coordy
+    def getx(self, coordx):
+        'define coordenada x do ponto como coordx'
+        return self.x
+    def get(self):
+        'retorna tupla com coordenadas x e y do ponto'
+        return (self.x, self.y)
+    def move(self, dx, dy):
+        'muda as coordenadas x e y por dx e dy'
+        self.x += dx
+        self.y += dy
+```
+
 ## Semana 3 ✅
 ## Semana 4 ✅
 ## Semana 5 ✅
