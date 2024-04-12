@@ -10,7 +10,15 @@
     - [Exercício 03 📝](#exercício-03-)
     - [Exercício 04 📝](#exercício-04-)
 - [Semana 2 ✅.](#semana-2-)
-    - [Exercício 05 📝](#exercício-05-) 
+    - [Exercício 05 📝](#exercício-05-)
+    - [Exercício 06 📝](#exercício-06-)
+    - [Exercício 07 📝](#exercício-07-)
+    - [Exercício 08 📝](#exercício-08-)
+    - [Exercício 08 📝](#exercício-09-)
+    - [Exercício 10 📝](#exercício-10-) 
+    - [Exercício 11 📝](#exercício-11-)
+    - [Exercício 12 📝](#exercício-12-)
+    - [Exercício 13 📝](#exercício-13-) 
 - [Semana 3 ✅.](#semana-3-)
 - [Semana 4 ✅.](#semana-4-)
 - [Semana 5 ✅.](#semana-5-)
@@ -189,6 +197,15 @@ class Point:
         self.x += dx
         self.y += dy
 ```
+### Exercício 05 📝
+### Exercício 06 📝
+### Exercício 07 📝
+### Exercício 08 📝
+### Exercício 08 📝
+### Exercício 10 📝
+### Exercício 11 📝
+### Exercício 12 📝
+### Exercício 13 📝
 
 ## Semana 3 ✅
 ## Semana 4 ✅
