@@ -254,7 +254,7 @@ animal = Animal()
 animal.fala()
 ```
 ### Exercício 08 📝
-### Exercício 08 📝
+### Exercício 09 📝
 ### Exercício 10 📝
 ### Exercício 11 📝
 ### Exercício 12 📝
