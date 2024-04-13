@@ -18,7 +18,8 @@
     - [Exercício 10 📝](#exercício-10-) 
     - [Exercício 11 📝](#exercício-11-)
     - [Exercício 12 📝](#exercício-12-)
-    - [Exercício 13 📝](#exercício-13-) 
+    - [Exercício 13 📝](#exercício-13-)
+    - [Exercício 14 📝](#exercício-14-) 
 - [Semana 3 ✅.](#semana-3-)
 - [Semana 4 ✅.](#semana-4-)
 - [Semana 5 ✅.](#semana-5-)
@@ -172,7 +173,7 @@ print(l[-1][0])
 
 ## Semana 2 ✅
 
-### Exercício 04 📝
+### Exercício 05 📝
 ```python
 """
     Acrescente o método getx() à classe Ponto; esse método não aceita entrada e retorna a coordenada x do objeto Ponto que chama o método.
@@ -197,8 +198,8 @@ class Point:
         self.x += dx
         self.y += dy
 ```
-### Exercício 05 📝
 ### Exercício 06 📝
+### Exercício 07 📝
 ```python
 """
     Implemente a classe Retângulo, que representa retângulos. A classe deverá implementar estes métodos:
@@ -212,7 +213,7 @@ class Retangulo:
     def area(self):
         return (self.width * self.height)
 ```
-### Exercício 07 📝
+### Exercício 08 📝
 ```python
 
 """
@@ -253,13 +254,12 @@ tweety.fala()
 animal = Animal()
 animal.fala()
 ```
-### Exercício 08 📝
 ### Exercício 09 📝
 ### Exercício 10 📝
 ### Exercício 11 📝
 ### Exercício 12 📝
 ### Exercício 13 📝
-
+### Exercício 14 📝
 ## Semana 3 ✅
 ## Semana 4 ✅
 ## Semana 5 ✅
