@@ -14,7 +14,7 @@
     - [Exercício 06 📝](#exercício-06-)
     - [Exercício 07 📝](#exercício-07-)
     - [Exercício 08 📝](#exercício-08-)
-    - [Exercício 08 📝](#exercício-09-)
+    - [Exercício 09 📝](#exercício-09-)
     - [Exercício 10 📝](#exercício-10-) 
     - [Exercício 11 📝](#exercício-11-)
     - [Exercício 12 📝](#exercício-12-)
