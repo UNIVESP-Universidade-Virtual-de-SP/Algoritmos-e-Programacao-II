@@ -373,7 +373,7 @@ print(Card('3', '♠') == Card('3', '♠'))
 print(Card('3', '♠') == eval(repr(Card('3', '♠'))))
 ```
 ### Exercício 11 📝
-```
+```python
 """
 Implemente os operadores sobrecarregados len(), repr() e == para a classe Baralho. Sua nova classe Baralho deverá se comportar conforme mostramos:
 
