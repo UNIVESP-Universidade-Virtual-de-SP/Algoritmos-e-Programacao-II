@@ -21,6 +21,17 @@
     - [Exercício 13 📝](#exercício-13-)
     - [Exercício 14 📝](#exercício-14-) 
 - [Semana 3 ✅.](#semana-3-)
+    - [Exercício 15 📝](#exercício-15-)
+    - [Exercício 16 📝](#exercício-16-)
+    - [Exercício 17 📝](#exercício-17-)
+    - [Exercício 18 📝](#exercício-18-)
+    - [Exercício 19 📝](#exercício-19-)
+    - [Exercício 20 📝](#exercício-20-)
+    - [Exercício 21 📝](#exercício-21-)
+    - [Exercício 22 📝](#exercício-22-)
+    - [Exercício 23 📝](#exercício-23-)
+    - [Exercício 24 📝](#exercício-24-)
+    - [Exercício 25 📝](#exercício-25-) 
 - [Semana 4 ✅.](#semana-4-)
 - [Semana 5 ✅.](#semana-5-)
 - [Semana 6 ✅.](#semana-6-)
@@ -547,6 +558,7 @@ Que operador sobrecarregado, além do operador de indexação, precisa ser imple
 Resposta: len()
 
 ## Semana 3 ✅
+### Exercício 15 📝
 ```python
 """
 Implemente o método recursivo reverse(), que aceita um inteiro não negativo como entrada e exibe os dígitos de n verticalmente, começando com o dígito de ordem baixa.
@@ -556,6 +568,79 @@ def vertical(n:int):
     for i in range(len(str(n))):
         print(str(n)[i])
 vertical(3125) # >>> 3 \n 1 \n 2 \n 5 \n
+```
+
+### Exercício 16 📝
+```python
+"""
+Problema Prático 10.2
+
+Use o pensamento recursivo para implementar a função recursiva saúde() que, sobre a entrada inteira n, exibe n strings 'Hip ' seguidos por Hurrah.
+
+>>> cheers(0)
+
+Hurrah!!!
+
+>>> cheers(1)
+
+Hip Hurrah!!!
+
+>>> cheers(4)
+
+Hip Hip Hip Hip Hurrah!!!
+
+O caso básico da recursão deverá ser quando n é 0; sua função deverão, então, exibir Hurrah. Quando n > 1, sua função deverá exibir 'Hip ' e depois chamar recursivamente a si mesma sobre a entrada inteira n – 1."""
+
+def cheers(n:int=0):
+    print(f"{'Hip ' * n}Hurrah!!!")
+
+cheers(4)
+```
+### Exercício 17 📝
+
+```python
+"""
+No Capítulo 5, implementamos a função fatorial() iterativamente. A função fatorial n! tem uma definição recursiva natural:
+
+n!   =                         1    se n = 0
+                 n · (n− 1)!     se n > 0
+
+Reimplemente a função fatorial() usando a recursão. Além disso, estime quantas chamadas à fatorial() são feitas para algum valor de entrada n > 0.
+"""
+
+def fatorial(n:int):
+    i = 1
+    while (n > 1):
+        i *= n
+        n-=1
+    return i
+
+print(fatorial(0))
+```
+
+### Exercício 18 📝
+```python
+```
+### Exercício 19 📝
+```python
+```
+### Exercício 20 📝
+```python
+```
+### Exercício 21 📝
+```python
+```
+### Exercício 22 📝
+```python
+```
+### Exercício 23 📝
+```python
+```
+### Exercício 24 📝
+```python
+```
+### Exercício 25 📝
+```python
 ```
 ## Semana 4 ✅
 ## Semana 5 ✅
