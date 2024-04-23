@@ -1,17 +1,23 @@
 """
-No Capítulo 5, implementamos a função fatorial() iterativamente. A função fatorial n! tem uma definição recursiva natural:
+Problema Prático 10.2
 
-n!   =                         1    se n = 0
-                 n · (n− 1)!     se n > 0
+Use o pensamento recursivo para implementar a função recursiva saúde() que, sobre a entrada inteira n, exibe n strings 'Hip ' seguidos por Hurrah.
 
-Reimplemente a função fatorial() usando a recursão. Além disso, estime quantas chamadas à fatorial() são feitas para algum valor de entrada n > 0.
-"""
+>>> cheers(0)
 
-def fatorial(n:int):
-    i = 1
-    while (n > 1):
-        i *= n
-        n-=1
-    return i
+Hurrah!!!
 
-print(fatorial(0))
+>>> cheers(1)
+
+Hip Hurrah!!!
+
+>>> cheers(4)
+
+Hip Hip Hip Hip Hurrah!!!
+
+O caso básico da recursão deverá ser quando n é 0; sua função deverão, então, exibir Hurrah. Quando n > 1, sua função deverá exibir 'Hip ' e depois chamar recursivamente a si mesma sobre a entrada inteira n – 1."""
+
+def cheers(n:int=0):
+    print(f"{'Hip ' * n}Hurrah!!!")
+
+cheers(4)
